@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f6e9fb-c7c9-4fc8-b8b3-62b5165a945b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/brocodelectures/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/KdvHesaplayici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/Ana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/arrayproject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/gradeaveragecalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/mathsinifi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/operatörler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/statickullanimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/stringsinifi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/DaireninAlani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/DaireninAlani.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projects/KdvHesaplayici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projects/KdvHesaplayici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/statickullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/statickullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ana.executor": "Run",
+    "Application.DaireninAlani.executor": "Run",
     "Application.KdvHesaplayici.executor": "Run",
     "Application.arrayproject.executor": "Run",
     "Application.arrays.executor": "Run",
@@ -114,7 +100,7 @@
       <workItem from="1732496255870" duration="2773000" />
       <workItem from="1732499040520" duration="5452000" />
       <workItem from="1732507178528" duration="1243000" />
-      <workItem from="1735093219700" duration="1044000" />
+      <workItem from="1735093219700" duration="3462000" />
     </task>
     <servers />
   </component>

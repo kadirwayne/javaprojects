@@ -1,6 +1,6 @@
 package turkcedersler.statickullanimi;
 
-public class statickullanimi {
+class statickullanimi {
     public static void main(String[] args) {
         System.out.println("online ogrenci: "+student.howMany());
         student s1 = new student("ali", 220, 90);

@@ -1,7 +1,7 @@
 package projects;
 import java.util.Scanner;
 
-public class KdvHesaplayici {
+class KdvHesaplayici {
     public static void main(String[] args){
         double tutar, kdvlifiyat, kdv = 0.18;
 

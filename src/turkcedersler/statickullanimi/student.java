@@ -1,6 +1,6 @@
 package turkcedersler.statickullanimi;
 
-public class student {
+class student {
     public String name;
     public int id;
     public int points;
