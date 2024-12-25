@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6f6e9fb-c7c9-4fc8-b8b3-62b5165a945b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/brocodelectures/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/KdvHesaplayici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/Ana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/arrayproject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/gradeaveragecalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/mathsinifi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/operatörler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/statickullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/statickullanimi/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/stringsinifi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kadirwayne&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kadirwayne/javaprojects.git&quot;,
+    &quot;accountId&quot;: &quot;9992609a-40b5-4f01-b67c-852f0bbbc972&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nsdHdL8x4uQw7woPYRukNoWbhz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ana.executor": "Run",
+    "Application.KdvHesaplayici.executor": "Run",
+    "Application.arrayproject.executor": "Run",
+    "Application.arrays.executor": "Run",
+    "Application.foreach.executor": "Run",
+    "Application.gradeaveragecalculator.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.mathsinifi.executor": "Run",
+    "Application.operatörler.executor": "Run",
+    "Application.scanner.executor": "Run",
+    "Application.statickullanimi.executor": "Run",
+    "Application.stringsinifi.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/projects" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f6e9fb-c7c9-4fc8-b8b3-62b5165a945b" name="Changes" comment="" />
+      <created>1729765630524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729765630524</updated>
+      <workItem from="1729765631516" duration="7700000" />
+      <workItem from="1731588712143" duration="6353000" />
+      <workItem from="1732496255870" duration="2773000" />
+      <workItem from="1732499040520" duration="5452000" />
+      <workItem from="1732507178528" duration="1243000" />
+      <workItem from="1735093219700" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
