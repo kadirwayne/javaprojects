@@ -13,10 +13,31 @@ public class PlaneTicketCalc {
         System.out.println("Choose the trip type (1- only go, 2- go and back): ");
         tip = input.nextInt();
 
+        double normalprice, agediscount, tipdiscount;
+
         if (km > 0 && yas > 0 && (tip == 1 || tip == 2)) {
-            System.out.println("inputs are correct ! ");
+
+            normalprice = km * 0.10;
+            if(yas<12){
+                agediscount = normalprice * 0.5;
+            }else if(yas>12 && yas<24){
+                agediscount = normalprice * 0.10;
+            }else if(yas>64){
+                agediscount = normalprice * 0.30;
+            }else{
+                agediscount = 0;
+            }
+            normalprice -= agediscount;
+
+            if(tip == 2){
+                tipdiscount = normalprice*0.20;
+                normalprice = 2*(normalprice - tipdiscount);
+
+            }
+            System.out.println("bilet tutari: " + normalprice + "$");
+
         }else{
-            System.out.println("inputs are wrong !");
+            System.out.println("inputs are wrong or missing !");
         }
     }
 }
