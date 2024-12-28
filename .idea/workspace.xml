@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f6e9fb-c7c9-4fc8-b8b3-62b5165a945b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/turkcedersler/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/WhilePractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projects/Whilepractices2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turkcedersler/Continuebreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turkcedersler/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/turkcedersler/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,7 @@
     "Application.Ana.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.ComparerOperators.executor": "Run",
+    "Application.Continuebreak.executor": "Run",
     "Application.DaireninAlani.executor": "Run",
     "Application.EventPlanner.executor": "Run",
     "Application.GradeAvgClassPass.executor": "Run",
@@ -59,6 +63,8 @@
     "Application.PlaneTicketCalc.executor": "Run",
     "Application.SwitchCse.executor": "Run",
     "Application.UserLogin.executor": "Run",
+    "Application.WhilePractices.executor": "Run",
+    "Application.Whilepractices2.executor": "Run",
     "Application.arrayproject.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.foreach.executor": "Run",
@@ -108,7 +114,7 @@
       <workItem from="1732496255870" duration="2773000" />
       <workItem from="1732499040520" duration="5452000" />
       <workItem from="1732507178528" duration="1243000" />
-      <workItem from="1735093219700" duration="19816000" />
+      <workItem from="1735093219700" duration="25284000" />
     </task>
     <servers />
   </component>
